@@ -1,0 +1,22 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "its dummy perpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akku19/dummy.git"
+  },
+  "author": "akash sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akku19/dummy/issues"
+  },
+  "homepage": "https://github.com/akku19/dummy#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
